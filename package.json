@@ -1,0 +1,47 @@
+{
+  "name": "discord-ticket-bot",
+  "version": "1.0.0",
+  "description": "بوت تذاكر ديسكورد احترافي مع دعم اللغة العربية والمميزات المتقدمة",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "deploy": "node deploy-commands.js",
+    "setup": "node deploy-commands.js && node index.js",
+    "test": "echo \"لا توجد اختبارات محددة\" && exit 0"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "tickets",
+    "arabic",
+    "support",
+    "customer-service",
+    "moderation",
+    "discord.js"
+  ],
+  "author": {
+    "name": "Discord Ticket Bot Developer",
+    "email": "developer@example.com"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/discord-ticket-bot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/discord-ticket-bot/issues"
+  },
+  "homepage": "https://github.com/yourusername/discord-ticket-bot#readme",
+  "engines": {
+    "node": ">=16.9.0",
+    "npm": ">=7.0.0"
+  },
+  "dependencies": {
+    "discord": "^0.8.2",
+    "discord.js": "^14.21.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
