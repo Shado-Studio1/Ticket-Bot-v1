@@ -1,0 +1,32 @@
+{
+  "token": "Bot token Here",
+  "clientId": "Bot ID Here",
+  "guildId": "Guild ID Here",
+  "ticketCategory": "Ticket Category ID Here",
+  "adminRoles": ["adminRoles", "adminRoles","adminRoles"],
+  "logChannel": "Log Channel ID Here",
+  "colors": {
+    "primary": "#3498db",
+    "success": "#2ecc71",
+    "warning": "#f39c12",
+    "error": "#e74c3c",
+    "info": "#9b59b6"
+  },
+  "emojis": {
+    "ticket": "🎟️",
+    "support": "🛠️",
+    "complaint": "⚠️",
+    "report": "📢",
+    "prize": "🎁",
+    "claim": "✋",
+    "call": "📞",
+    "close": "🔒",
+    "success": "✅",
+    "error": "❌"
+  },
+  "images": {
+    "welcomeBanner": "https://cdn.discordapp.com/attachments/1403133267372146751/1404334961879945336/58d496fe30650aee34e6ca7c64f75d69.jpg?ex=689ad05a&is=68997eda&hm=585f51da2fb80911b9b6fdbf3daabf1b0dfb4ef959add21bf5bad95060af0829&",
+    "ticketThumbnail": "https://cdn.discordapp.com/attachments/1403133267372146751/1404334961879945336/58d496fe30650aee34e6ca7c64f75d69.jpg?ex=689ad05a&is=68997eda&hm=585f51da2fb80911b9b6fdbf3daabf1b0dfb4ef959add21bf5bad95060af0829&",
+    "supportBanner": "https://cdn.discordapp.com/attachments/1403133267372146751/1404334961879945336/58d496fe30650aee34e6ca7c64f75d69.jpg?ex=689ad05a&is=68997eda&hm=585f51da2fb80911b9b6fdbf3daabf1b0dfb4ef959add21bf5bad95060af0829&"
+  }
+}
